@@ -25,5 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## To start database (MongoDB)
 
-From the new commmand prompt panel navigate to mongodb folder and run command **mongo.exe --dpath/
 
+From the new commmand prompt panel navigate to mongodb folder and run command ** mongo.exe --dpath [database folder] **
+
+In new command prompt panel run the mongo.exe file
