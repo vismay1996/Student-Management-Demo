@@ -1,7 +1,7 @@
 # Student-Management-Demo
-# Front end - React 
-# Backend- Node js 
-# Database - Mongo DB
+### Front end - React 
+### Backend- Node js 
+### Database - Mongo DB
 
 ## Clone the repository
 
