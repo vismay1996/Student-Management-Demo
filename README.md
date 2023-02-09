@@ -1,4 +1,4 @@
-# Student-Management-Demo
+# Student-Management-Desk
 ### Front end - React 
 ### Backend- Node js 
 ### Database - Mongo DB
